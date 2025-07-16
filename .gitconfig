@@ -1,0 +1,9 @@
+[user]
+    name = Rogier Meulenaar
+    email = rmvmeulenaar@gmail.com
+
+[credential]
+    helper = store
+
+[url "https://${GITHUB_TOKEN}@github.com/"]
+    insteadOf = https://github.com/
